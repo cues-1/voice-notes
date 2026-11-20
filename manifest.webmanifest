@@ -1,0 +1,20 @@
+{
+  "name": "语音笔记 · 录音转文字 & AI 要点",
+  "short_name": "语音笔记",
+  "description": "录音转文字、AI 校对增强、自动整理要点与待办",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1220",
+  "theme_color": "#0f1220",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
